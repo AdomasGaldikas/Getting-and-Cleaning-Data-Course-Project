@@ -1,7 +1,4 @@
----
-title: Getting and Cleaning Data Course Project
-output: github_document
----
+# Getting and Cleaning Data Course Project Read Me
 
 ## Intro
 This repo is the assigment from the "Getting and Cleaning Data" course from Coursera.

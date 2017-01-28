@@ -1,7 +1,4 @@
----
-title: "Code Book"
-output: github_document
----
+# Code Book
 
 This document describes the code inside run_analysis.R.
 
